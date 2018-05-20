@@ -70,7 +70,7 @@ Réalisation de plans, de l’esquisse au DCE (maisons individuelles ; bureaux).
 - [ ] Office
 
 2003 – 2005 (1 ans et 6 mois)
-## *Dessinatrice métreur - Château Gontier (53)* [CRUARD CHARPENTE](http://www.cruard-charpente.com/)  [MAISON BOIS CRUARD](https://www.mbc-maisonbois.com/) mi-temps dans chaque entreprise
+## *Dessinatrice métreur - Château Gontier (53)* [CRUARD CHARPENTE](http://www.cruard-charpente.com/) et [MAISON BOIS CRUARD](https://www.mbc-maisonbois.com/) mi-temps dans chaque entreprise
 Chez MBC : Réalisation de plans, de l’esquisse au PC de maisons individuelles.
 Chez Cruard : Réalisation des plans de charpente/ossature bois.
 Mise en place d’une méthodologie de travail collaborative entre l’architecte et bureau d’étude sur le logiciel SEMA.
